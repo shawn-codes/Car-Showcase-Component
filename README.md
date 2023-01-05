@@ -1,2 +1,3 @@
 # Car-Showcase-Component
- Card Component Showcasing Cars
+
+A simple responsive card component showcasing Cars!
