@@ -112,7 +112,7 @@ body {
 
 .card a {
   background-color: black;
-  color: #fff;
+  /* color: #fff; */
   padding: 15px 20px;
   display: block;
   text-align: center;
